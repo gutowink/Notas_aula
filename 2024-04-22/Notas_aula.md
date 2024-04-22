@@ -7,7 +7,8 @@
   ![alt text](image-2.png)
 ## Match-case ou Switch
  - Possibilita fazer múltiplos ‘if’s de forma menos verbosa.
- 
+
  ![alt text](image-3.png)
+ 
 
 
